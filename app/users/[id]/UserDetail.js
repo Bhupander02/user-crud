@@ -1,4 +1,4 @@
-2import Nav from '../../components/Nav';
+import Nav from '../../components/Nav';
 import UserDetail from './UserDetail';
 
 async function getUser(id) {
