@@ -23,12 +23,15 @@
     }
   },
   "include": [
-    "next-env.d.ts",
+    "next-env.d.js",
     "**/*.ts",
     "**/*.tsx",
     ".next/types/**/*.ts",
     ".next/dev/types/**/*.ts",
-    "**/*.mts"
-, "app/layout.js", "app/page.js"  ],
+    "**/*.mts",
+    "app/layout.js",
+    "app/page.js",
+    "next.config.js"
+  ],
   "exclude": ["node_modules"]
 }
