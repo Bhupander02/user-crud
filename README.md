@@ -10,8 +10,8 @@ A simple User CRUD app built with **Next.js (App Router)** and **JSONPlaceholder
 
 ## Tech Stack
 
-- Next.js 14 (App Router)
-- React 18
+- Next.js 16 (App Router)
+- React.js
 - CSS Modules (global CSS)
 - JSONPlaceholder API
 
